@@ -1,0 +1,21 @@
+.hero
+{
+    background-image: url(../Images/Hero.jpg);
+    height: 50vh;
+    background-size: 100% 100%;
+
+}
+.cctv 
+{
+    height: 55vh;
+}
+.h
+{
+    background: url(/Images/abstract-bg.jpg);
+    background-size:cover;
+}
+.Background
+{
+    background-image: url(../Images/Hero.jpg);
+    background-size:cover;
+}
