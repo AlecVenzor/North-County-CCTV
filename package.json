@@ -4,7 +4,8 @@
   "description": "a demo site for a security company",
   "main": "App.js",
   "scripts": {
-    "build": "postcss public/Style/tailwind.css -o public/Style/styles.css"
+    "build": "postcss public/Style/tailwind.css -o public/Style/styles.css",
+    "start": "node App.js"
   },
   "author": "Alec Venzor",
   "license": "ISC",
